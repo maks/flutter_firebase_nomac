@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305460949206",
+    "project_id": "manichord-flutter-sandbox",
+    "storage_bucket": "manichord-flutter-sandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305460949206:android:f31da1ea8d4a5e11f81977",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_nomac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305460949206-spm3u4p0imnir9g83tenfnkplpf4hacj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmC7hASwcVgHlA1SkpcxqFB9OhoPMXJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305460949206-spm3u4p0imnir9g83tenfnkplpf4hacj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305460949206-m7eeg6imqcc6s0gu0da4jlg03vu4bhrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseNomac.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
